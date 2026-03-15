@@ -32,10 +32,16 @@
       "name": "English",
       "path": "lang/en.json",
       "flags": {}
+    },
+    {
+      "lang": "eo",
+      "name": "Esperanto",
+      "path": "lang/eo.json",
+      "flags": {}
     }
   ],
-  "manifest": "https://raw.githubusercontent.com/Lee-Talman/knave2e/main/system.json",
-  "download": "https://github.com/Lee-Talman/knave2e/releases/download/0.4.0/system.zip",
+  "manifest": "https://raw.githubusercontent.com/elijahrane/knave2e/main/system.json",
+  "download": "https://github.com/Elijahrane/knave2e/archive/refs/tags/Main.zip",
   "background": "systems/knave2e/assets/anvil-bg.png",
   "grid": {
     "distance": 5,
