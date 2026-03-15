@@ -16,7 +16,7 @@
   "ABILITIES.StrengthDescription": "Atakoj per fraparmiloj, levado,<br>grimpado, liberiĝado",
   "ABILITIES.DexterityDescription": "Evitado, ŝtelirado,<br>trompoj",
   "ABILITIES.ConstitutionDescription": "Korpeca rezisto,<br>objektaj fendoj, vondoj",
-  "ABILITIES.IntelligenceDescription": "Malfermado de seruroj, alkemio,<br>sorĉo po tago",
+  "ABILITIES.IntelligenceDescription": "Malfermado de seruroj, alkemio,<br>sorĉoj po tago",
   "ABILITIES.WisdomDescription": "Atakoj per misilarmiloj, trovado de manĝaĵo,<br>navigado, rezisto kontraŭ sorĉoj",
   "ABILITIES.CharismaDescription": "ruloj de enviciĝado, persvado,<br>kompaniuloj, benadoj",
 
@@ -44,7 +44,7 @@
   "KNAVE2E.MailShirt": "Maŝkiraso",
   "KNAVE2E.Gambeson": "Ĵakkiraso",
   "KNAVE2E.Helmet": "Kasko",
-  "KNAVE2E.LegPlate": "Gambkiraso",
+  "KNAVE2E.LegPlate": "Gambplato",
   "KNAVE2E.Shield": "Ŝildo",
 
   "KNAVE2E.ArmorPoints": "AP",
@@ -105,7 +105,7 @@
   "KNAVE2E.DamageRollFormula": "Formulo de Rolo",
   "KNAVE2E.Melee": "Fraparmilo",
   "KNAVE2E.Ranged": "Misilarmilo",
-  "KNAVE2E.Sling": "Ŝtonĵetilo",
+  "KNAVE2E.Sling": "Ŝtonĵetila",
   "KNAVE2E.WeaponType": "Tipo de Armilo",
   "KNAVE2E.Weapon": "Armilo",
 
@@ -114,7 +114,7 @@
   "KNAVE2E.Name": "Nomo",
   "KNAVE2E.Slots": "Fendoj",
   "KNAVE2E.Stored": "Konservita",
-  "KNAVE2E.Range": "Pafdistanco",
+  "KNAVE2E.Range": "Atakdistanco",
   "KNAVE2E.Rest": "Ripozi",
 
   "KNAVE2E.Candle": "Kandelo",
@@ -138,14 +138,14 @@
   "KNAVE2E.PowerAttackRoll": "Povatako Rolo",
   "KNAVE2E.DamageRoll": "Damaĝa Rolo",
   "KNAVE2E.Damage": "Damaĝo",
-  "KNAVE2E.Direct": "Rekta",
+  "KNAVE2E.Direct": "Rekte",
   "KNAVE2E.DirectRoll": "Rekta Damaĝa Rolo",
   "KNAVE2E.With": "per",
   "KNAVE2E.IsBroken": "estas rompita",
 
   "KNAVE2E.ItemName": "Nomo de Objekto",
   "KNAVE2E.Item": "Objekto",
-  "KNAVE2E.Portrait": "Portreta",
+  "KNAVE2E.Portrait": "Portreto",
 
   "KNAVE2E.AddBonusToCheck": "Aldoni Modifilon al Kontrolo: ",
   "KNAVE2E.NumberAppearingDialogTitle": "Roli Nombron Aperantan",
